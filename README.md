@@ -4,4 +4,7 @@ This project presents video of MYMV (APSIPA 2024)
 
 <img width="100%" src="https://github.com/jmg1002/MYMV/blob/main/fig/00_overview.png">
 
-[![Video Label](http://img.youtube.com/vi/ec-RDMerIs8/0.jpg)](https://youtu.be/ec-RDMerIs8)
+
+
+https://github.com/user-attachments/assets/fb3f3798-eef0-463a-ad5d-7433c9fb5c51
+
